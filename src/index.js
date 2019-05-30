@@ -62,7 +62,7 @@ class Buttons extends React.Component {
 			<div className="center">
 				<ButtonToolbar>
 					<button className="btn btn-default" onClick={this.props.playButton}>
-						Play
+					  Play
 					</button>
 					<button className="btn btn-default" onClick={this.props.pauseButton}>
 					  Pause
